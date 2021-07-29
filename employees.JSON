@@ -1,0 +1,6 @@
+ [
+    {"firstname":"sule", "lastname":"karakurt", "age":22,"retired":false},
+    {"firstname":"omer", "lastname":"karakurt", "age":20, "retired":false},
+    {"firstname":"ali", "lastname":"veli","age":67, "retired":true}
+]
+
